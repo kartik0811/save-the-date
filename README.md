@@ -1,8 +1,6 @@
 # 💍 Kartik & Namrata — Save the Date
 
-A modern, cinematic, highly-animated wedding **Save the Date** website, inspired by
-[`amitgupta101010/kartik-wedding-invitation`](https://github.com/amitgupta101010/kartik-wedding-invitation)
-but rebuilt as a polished, component-based single-page app.
+A modern, cinematic, highly-animated wedding **Save the Date** website
 
 Built with **React + Vite + Tailwind CSS + Framer Motion**.
 
